@@ -1,0 +1,11 @@
+{
+  // point at the folder that contains your venv(s):
+  "python.venvPath": "${workspaceFolder}",
+
+  // list the folder names you use for venvs:
+  "python.venvFolders": [
+    ".venv",
+    ".venv-ai"
+  ],
+  "git.ignoreLimitWarning": true
+}
